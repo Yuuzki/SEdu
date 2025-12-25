@@ -1,0 +1,13 @@
+export declare const TESTNET_HELLO_WORLD_PACKAGE_ID = "0x0de8f0a090b81b642d62f6ad9459f2e1cad737bf51d6a3584f5082a91ee3f90c";
+export declare const BLOG_CONTRACT: {
+    readonly PACKAGE_ID: "0x3c11d4819905061150ee607e605180ed2d8090009d85c45775d8a6ed49390f6f";
+    readonly MODULE_NAME: "blog";
+    readonly MODULE_ADDRESS: "0x3c11d4819905061150ee607e605180ed2d8090009d85c45775d8a6ed49390f6f";
+};
+export declare const PACKAGE_ID = "0xfce5a748488d2365ac0f55055766f44d46006285fcee68b7059121dcee44b2f5";
+export declare const MODULE_NAME = "certificate";
+export declare const CONTRACT_CONFIG: {
+    readonly PACKAGE_ID: "0x3c11d4819905061150ee607e605180ed2d8090009d85c45775d8a6ed49390f6f";
+    readonly MODULE_NAME: "blog";
+    readonly MODULE_ADDRESS: "0x3c11d4819905061150ee607e605180ed2d8090009d85c45775d8a6ed49390f6f";
+};

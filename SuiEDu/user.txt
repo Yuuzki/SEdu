@@ -1,0 +1,26 @@
+{
+  "request_id": "",
+
+  "user_wallet": "",
+
+  "course": {
+    "course_id": "",
+    "course_name": ""
+  },
+
+  "display_name": "",
+
+  "completion": {
+    "completed": false,
+    "completed_at": ""
+  },
+
+  "certificate_preview": {
+    "preview_url": "",
+    "preview_hash": ""
+  },
+
+  "status": "pending",
+
+  "submitted_at": ""
+}
